@@ -1,0 +1,175 @@
+{
+  "users": {
+    "29958101553388": {
+      "xp": 10,
+      "level": 1,
+      "points": 0,
+      "messages": 2,
+      "name": ""
+    },
+    "42477864149012": {
+      "xp": 245,
+      "level": 3,
+      "points": 0,
+      "messages": 109,
+      "name": ""
+    },
+    "69630664130691": {
+      "xp": 15,
+      "level": 1,
+      "points": 0,
+      "messages": 3,
+      "name": ""
+    },
+    "119469196226780": {
+      "xp": 85,
+      "level": 1,
+      "points": 0,
+      "messages": 17,
+      "name": ""
+    },
+    "73297978982600": {
+      "xp": 55,
+      "level": 1,
+      "points": 0,
+      "messages": 11,
+      "name": ""
+    },
+    "89584796987478": {
+      "xp": 15,
+      "level": 1,
+      "points": 0,
+      "messages": 3,
+      "name": ""
+    },
+    "124227701186735": {
+      "xp": 5,
+      "level": 1,
+      "points": 0,
+      "messages": 1,
+      "name": ""
+    },
+    "201153170313": {
+      "xp": 70,
+      "level": 1,
+      "points": 0,
+      "messages": 14,
+      "name": ""
+    },
+    "201226598765": {
+      "xp": 260,
+      "level": 3,
+      "points": 0,
+      "messages": 112,
+      "name": ""
+    },
+    "201026437841": {
+      "xp": 15,
+      "level": 1,
+      "points": 0,
+      "messages": 3,
+      "name": ""
+    },
+    "201093655004": {
+      "xp": 5,
+      "level": 1,
+      "points": 0,
+      "messages": 1,
+      "name": ""
+    },
+    "201068566305": {
+      "xp": 5,
+      "level": 1,
+      "points": 0,
+      "messages": 1,
+      "name": ""
+    },
+    "201107803939": {
+      "xp": 55,
+      "level": 1,
+      "points": 0,
+      "messages": 11,
+      "name": ""
+    },
+    "201026546032": {
+      "xp": 65,
+      "level": 2,
+      "points": 0,
+      "messages": 33,
+      "name": ""
+    },
+    "201507222493": {
+      "xp": 55,
+      "level": 1,
+      "points": 0,
+      "messages": 11,
+      "name": ""
+    },
+    "201020896109": {
+      "xp": 5,
+      "level": 1,
+      "points": 0,
+      "messages": 1,
+      "name": ""
+    }
+  },
+  "groups": {
+    "120363426738627850@g.us": {
+      "welcome": true,
+      "goodbye": true,
+      "antilink": true,
+      "antispam": false,
+      "muted": false,
+      "language": "ar",
+      "welcomeMsg": "منور يقلبي {name} عيش حياتك في {group} بس بلاش \"هبد\" عشان البوت مبيسميش، اقرأ القوانين وورينا شطارتك!",
+      "goodbyeMsg": "طريق السلامة أنت {name}، ويا رب متكونش \"قالب\" علينا وترجع لنا تاني! ✌️💀\"",
+      "badwords": true
+    },
+    "120363404592504447@g.us": {
+      "welcome": true,
+      "goodbye": true,
+      "antilink": false,
+      "antispam": false,
+      "muted": false,
+      "language": "ar",
+      "welcomeMsg": "",
+      "goodbyeMsg": ""
+    },
+    "120363424078747488@g.us": {
+      "welcome": true,
+      "goodbye": true,
+      "antilink": false,
+      "badwords": false,
+      "antispam": false,
+      "muted": false,
+      "language": "ar",
+      "welcomeMsg": "",
+      "goodbyeMsg": ""
+    }
+  },
+  "games": {
+    "xo_120363426738627850@g.us": {
+      "board": [
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " "
+      ],
+      "players": {
+        "X": "42477864149012@lid",
+        "O": "119469196226780@lid"
+      },
+      "turn": "X",
+      "type": "xo"
+    }
+  },
+  "warnings": {
+    "120363426738627850@g.us_966573192557": 1
+  },
+  "antilinkGroups": []
+}
